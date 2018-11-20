@@ -62,7 +62,10 @@ html {
 
   .inset-img {
     border-color: #000;
-    border-radius: 6px;
+  }
+
+  .dont-print {
+    display: none;
   }
 
 }
